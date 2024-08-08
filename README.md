@@ -1,17 +1,13 @@
-# progressive-web-applications
+# Progressive Web Application Text Editor
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This application is a text editor that runs in the browser and also functions offline
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+First, clone the repository from GitHub at: https://github.com/LisaLReynolds/progressive-web-applications. Once it has been cloned, run `npm i && npm run dev` in order to install the dependencies concurrently in all the package.jsons as well as to start your server. 
+
 
 ## Usage
 
